@@ -43,6 +43,7 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 ## Hackathons 
 
 ### Hacking Health Vancouver 2014 - RADalert 
+![Image](/assets/img/RADalert.png)(//www.slideshare.net/VivienLo1/ra-dalert-presentation-fixed)
 [RADalert - mentorship award winning concept at Hacking Health Vancouver 2014](//www.slideshare.net/VivienLo1/ra-dalert-presentation-fixed)
 <!--- Content ---> 
 Contribution: 
