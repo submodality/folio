@@ -66,7 +66,7 @@ Contribution:
 - Application logic
 
 
-
+## Coursework & Miscellaneous
 ### 2015 Canadian Federal Election Results Browser 
 [<img src="http://i.imgur.com/wB4Gzh5.png">](https://public.tableau.com/views/2015CanadianFederalElectionResultsBrowser/42ndCanadianFederalElectionResults?:embed=y&amp;:display_count=yes)
 
