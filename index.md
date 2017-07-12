@@ -44,9 +44,9 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 
 ### Hacking Health Vancouver 2014 - RADalert 
 
-
-[RADalert - mentorship award winning concept at Hacking Health Vancouver 2014](//www.slideshare.net/VivienLo1/ra-dalert-presentation-fixed)
-<!--- Content ---> 
+[<img src = "/assets/img/RADalert.png">](//www.slideshare.net/VivienLo1/ra-dalert-presentation-fixed)
+<!---[RADalert - mentorship award winning concept at Hacking Health Vancouver 2014](//www.slideshare.net/VivienLo1/ra-dalert-presentation-fixed)
+ Content ---> 
 Contribution: 
 - Research
 - Process design
@@ -55,7 +55,8 @@ Contribution:
 
 ### CODE (Canadian Open Data Experience) 2015 
 [<img src="http://i.imgur.com/9r8T87v.png">](http://code2015.brianquan.com/)
-<!--- Content ---> 
+
+_(A collaboration with Brian Quan and Marina Wada for the [Canadian Open Data Experience [CODE] 2015](http://www.canadianopendataexperience.ca/)
 
 Contribution: 
 - Research
