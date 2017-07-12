@@ -4,7 +4,7 @@
 You can use the [editor on GitHub](https://github.com/submodality/folio/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files. 
---->
+
 
 ### Markdown
 
@@ -37,3 +37,15 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
+---> 
+
+### Hackathons 
+
+1. Hacking Health Vancouver 2014 - RADalerts 
+<!--- Content ---> 
+Contribution: Research, process design, system design, UX 
+
+2. CODE (Canadian Open Data Experience) 2015 
+<!--- Content ---> 
+Contribution: Data cleaning/munging, data analysis, application logic, UX 
