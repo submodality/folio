@@ -53,6 +53,7 @@ Contribution:
 - System design
 - UI design 
 
+
 ### CODE (Canadian Open Data Experience) 2015 
 [<img src="http://i.imgur.com/9r8T87v.png">](http://code2015.brianquan.com/)
 
@@ -62,3 +63,15 @@ Contribution:
 - Research
 - Data wrangling + analysis
 - Application logic
+
+### 2015 Canadian Federal Election Results Browser 
+[<img src="http://i.imgur.com/wB4Gzh5.png">](https://public.tableau.com/views/2015CanadianFederalElectionResultsBrowser/42ndCanadianFederalElectionResults?:embed=y&amp;:display_count=yes)
+
+_A collaboration with Brian Quan and Marina Wada for the [Canadian Open Data Experience [CODE] 2015](http://www.canadianopendataexperience.ca/)_
+
+Contribution (solo project): 
+- Research
+- Data wrangling + analysis
+- Dashboard design
+
+
