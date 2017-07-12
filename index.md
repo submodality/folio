@@ -51,7 +51,7 @@ Contribution:
 - Research
 - Process design
 - System design
-- UI design  
+- UI design
   
   <br />  
   
@@ -63,7 +63,7 @@ _A collaboration with Brian Quan and Marina Wada for the [Canadian Open Data Exp
 Contribution: 
 - Research
 - Data wrangling + analysis
-- Application logic  
+- Application logic
   
   <br />  
   
@@ -74,6 +74,6 @@ Contribution:
 Contribution (solo project): 
 - Research
 - Data wrangling + analysis
-- Dashboard development  
+- Dashboard development
   
   
