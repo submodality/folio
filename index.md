@@ -54,7 +54,7 @@ Contribution:
 - UI design 
 
 ### CODE (Canadian Open Data Experience) 2015 
-
+[<img src="http://i.imgur.com/9r8T87v.png">](http://code2015.brianquan.com/)
 <!--- Content ---> 
 
 Contribution: 
