@@ -46,10 +46,10 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 
 <!--- Content ---> 
 
-Contribution: Research, process design, system design, UX 
+Contribution: Research, process design, system design, UI design 
 
 ### CODE (Canadian Open Data Experience) 2015 
 
 <!--- Content ---> 
 
-Contribution: Data cleaning/munging, data analysis, application logic, UX 
+Contribution: Data cleaning/munging, data analysis, application logic
