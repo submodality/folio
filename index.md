@@ -43,9 +43,8 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 ## Hackathons 
 
 ### Hacking Health Vancouver 2014 - RADalerts 
-
+[[embed url=http://www.slideshare.net/slideshow/embed_code/key/3dtziVcoLNcGlF]]
 <!--- Content ---> 
-
 Contribution: 
 - Research
 - Process design
@@ -58,5 +57,5 @@ Contribution:
 
 Contribution: 
 - Research
-- Data cleaning/munging/analysis
+- Data wrangling + analysis
 - Application logic
