@@ -53,7 +53,7 @@ Contribution:
 - System design
 - UI design  
   
-  <br /><br />
+  <br />  
   
 ### CODE (Canadian Open Data Experience) 2015 
 [<img src="http://i.imgur.com/9r8T87v.png">](http://code2015.brianquan.com/)
@@ -65,7 +65,7 @@ Contribution:
 - Data wrangling + analysis
 - Application logic  
   
-  <br /><br />
+  <br />  
   
 ## Coursework & Miscellaneous
 ### 2015 Canadian Federal Election Results Browser 
