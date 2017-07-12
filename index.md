@@ -40,15 +40,15 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 
 ---> 
 
-### Hackathons 
+## Hackathons 
 
-1. Hacking Health Vancouver 2014 - RADalerts 
+### Hacking Health Vancouver 2014 - RADalerts 
 
 <!--- Content ---> 
 
 Contribution: Research, process design, system design, UX 
 
-2. CODE (Canadian Open Data Experience) 2015 
+### CODE (Canadian Open Data Experience) 2015 
 
 <!--- Content ---> 
 
