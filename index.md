@@ -98,4 +98,4 @@ Contribution (solo project):
 <br />  
 
 ### JavaScript Fun 
-[Death List Five](https://github.com/submodality/submodality/dl5/index.html)
+[Death List Five](/dl5/index.html)
