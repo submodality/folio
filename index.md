@@ -94,3 +94,8 @@ Contribution (solo project):
 Contribution (solo project): 
 - Data wrangling + analysis
 - Server and UI
+
+<br />  
+
+### JavaScript Fun 
+(https://github.com/submodality/submodality/raw/master/dl5/index.html)
