@@ -89,7 +89,7 @@ Contribution (solo project):
 <br /> 
 
 ### Shiny with R  
-[<img src="https://github.com/submodality/submodality/raw/master/assets/img/drugIQ.png">](//github.com/submodality/FaithfulApp)
+[<img src="https://github.com/submodality/submodality/raw/master/assets/img/faithfulApp.png">](//github.com/submodality/FaithfulApp)
 
 Contribution (solo project): 
 - Data wrangling + analysis
