@@ -98,4 +98,4 @@ Contribution (solo project):
 <br />  
 
 ### JavaScript Fun 
-(https://github.com/submodality/submodality/raw/master/dl5/index.html)
+https://github.com/submodality/submodality/raw/master/dl5/index.html
