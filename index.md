@@ -59,8 +59,6 @@ Contribution:
 ### CODE (Canadian Open Data Experience) 2015 
 [<img src="http://i.imgur.com/9r8T87v.png">](http://code2015.brianquan.com/)
 
-_A collaboration with Brian Quan and Marina Wada for the [Canadian Open Data Experience [CODE] 2015](http://www.canadianopendataexperience.ca/)_
-
 Contribution: 
 - Research
 - Data wrangling + analysis
