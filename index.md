@@ -68,6 +68,17 @@ Contribution:
   
   <br />  
   
+ ### Hacking Health Vancouver 2016 - DrugIQ 
+
+[<img src = "https://github.com/submodality/submodality/raw/master/assets/img/drugIQ.png">](http://disruptpharmacy.s3-website-us-west-2.amazonaws.com)
+
+Contribution: 
+- Research
+- Process design
+- Business analysis
+  
+  <br />  
+  
 ## Coursework & Miscellaneous
 ### 2015 Canadian Federal Election Results Browser 
 [<img src="http://i.imgur.com/wB4Gzh5.png">](https://public.tableau.com/views/2015CanadianFederalElectionResultsBrowser/42ndCanadianFederalElectionResults?:embed=y&amp;:display_count=yes)
