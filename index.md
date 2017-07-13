@@ -68,7 +68,7 @@ Contribution:
   
   <br />  
   
- ### Hacking Health Vancouver 2016 - DrugIQ 
+### Hacking Health Vancouver 2016 - DrugIQ 
 
 [<img src = "https://github.com/submodality/submodality/raw/master/assets/img/drugIQ.png">](http://disruptpharmacy.s3-website-us-west-2.amazonaws.com)
 
